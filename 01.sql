@@ -1,3 +1,5 @@
+-- Creating and inserting logic in SQL
+	
 CREATE DATABASE college;
 USE college;
 
