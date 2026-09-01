@@ -1,3 +1,4 @@
+-- Alter commands
 CREATE DATABASE fourth;
 USE fourth;
 SET SQL_SAFE_UPDATES=0;
