@@ -1,3 +1,4 @@
+-- Select, update, group by, order by and other conditional logics.
 CREATE DATABASE college;
 USE college;
 
