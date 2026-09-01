@@ -1,3 +1,4 @@
+-- Joins
 CREATE DATABASE fifth;
 USE fifth;
 
