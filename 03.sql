@@ -1,3 +1,4 @@
+-- Primary Key and Foreign Key
 CREATE DATABASE third;
 USE third;
 
